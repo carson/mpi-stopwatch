@@ -18,3 +18,5 @@ To test network latency a hostfile with multiple host IPs is required:
 'mpirun -np 2 -hostfile [list of cluster IPs] python mpi-stopwatch.py'
 
 Cluster clocks are assumed to be synchronized using ptp.
+
+mpi-stopwatch.py is free software released under the GNU General Public License. See gpl.txt for more information.
