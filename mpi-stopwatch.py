@@ -20,6 +20,9 @@ To test network latency a hostfile with multiple host IPs is required:
 Cluster clocks are assumed to be synchronized using ptp.
 """
 
+__author__ = "Carson Reynolds and Hyuno Kim"
+__license__ = "GPL"
+
 from mpi4py import MPI
 import datetime
 
