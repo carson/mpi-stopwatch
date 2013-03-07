@@ -3,6 +3,10 @@
 """
 A simple latency timer written in mpi4py
 
+Copyright (C) 2013 Carson Reynolds
+
+mpi-stopwatch.py is free software released under the GNU General Public License. See gpl.txt for more information.
+
 The code was written for python 2.7.3 and test on ubuntu 12.10.
 
 It requires the following packages to be installed:
